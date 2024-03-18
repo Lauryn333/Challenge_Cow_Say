@@ -1,0 +1,8 @@
+{
+  "name": "ex_node_debutant_cow_say",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
